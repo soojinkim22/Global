@@ -1,0 +1,9 @@
+.container-body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+.container-title {
+  text-align: center;
+  padding-bottom: 50px;
+}
